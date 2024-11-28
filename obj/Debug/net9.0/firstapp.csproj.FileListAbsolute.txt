@@ -1,0 +1,14 @@
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\firstapp.AssemblyInfoInputs.cache
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\firstapp.AssemblyInfo.cs
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\firstapp.csproj.CoreCompileInputs.cache
+C:\portfolio-projects\csharptraining\firstapp\bin\Debug\net9.0\firstapp.exe
+C:\portfolio-projects\csharptraining\firstapp\bin\Debug\net9.0\firstapp.deps.json
+C:\portfolio-projects\csharptraining\firstapp\bin\Debug\net9.0\firstapp.runtimeconfig.json
+C:\portfolio-projects\csharptraining\firstapp\bin\Debug\net9.0\firstapp.dll
+C:\portfolio-projects\csharptraining\firstapp\bin\Debug\net9.0\firstapp.pdb
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\firstapp.dll
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\refint\firstapp.dll
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\firstapp.pdb
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\firstapp.genruntimeconfig.cache
+C:\portfolio-projects\csharptraining\firstapp\obj\Debug\net9.0\ref\firstapp.dll
